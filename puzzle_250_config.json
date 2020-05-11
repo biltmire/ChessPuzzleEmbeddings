@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Chess Puzzle Embeddings Test 2",
+      "tensorShape": [
+        42278,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/biltmire/ChessPuzzleEmbeddings/master/dim250vectorstrimmed.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/biltmire/ChessPuzzleEmbeddings/master/dim250meta.tsv"
+    }
+  ]
+}
