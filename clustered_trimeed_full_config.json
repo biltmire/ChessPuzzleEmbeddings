@@ -1,9 +1,13 @@
-{"embeddings": 
-  [
+{
+  "embeddings": [
     {
-    "tensorName": "Chess Puzzle Embeddings 2", 
-    "tensorShape": [18000, 265], 
-    "tensorPath": "https://raw.githubusercontent.com/biltmire/ChessPuzzleEmbeddings/master/meta_embeddings_clustered_trimmed.tsv", 
-    "metadataPath": "https://raw.githubusercontent.com/biltmire/ChessPuzzleEmbeddings/master/optimal_embeddings_clustered_trimmed.tsv"}
-    ]
+      "tensorName": "Chess Puzzle Clustered Trimmed",
+      "tensorShape": [
+        18000,
+        265
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/biltmire/ChessPuzzleEmbeddings/master/optimal_embeddings_clustered_trimmed.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/biltmire/ChessPuzzleEmbeddings/master/meta_embeddings_clustered_trimmed.tsv"
+    }
+  ]
 }
