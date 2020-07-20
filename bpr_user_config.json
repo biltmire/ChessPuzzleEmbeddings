@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "BPR User Embeddings",
+      "tensorShape": [
+        30265,
+	64
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/biltmire/ChessPuzzleEmbeddings/master/bpr_user_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/biltmire/ChessPuzzleEmbeddings/master/bpr_user_meta.tsv"
+    }
+  ]
+}
