@@ -3,7 +3,7 @@
     {
       "tensorName": "BPR Chess Puzzle Embeddings",
       "tensorShape": [
-        33521,
+        33531,
 	64
       ],
       "tensorPath": "https://raw.githubusercontent.com/biltmire/ChessPuzzleEmbeddings/master/bpr_puzzle_vecs.tsv",
