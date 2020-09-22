@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "New attempt embeddings",
+      "tensorShape": [
+        18000,
+        265
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/biltmire/ChessPuzzleEmbeddings/master/newdata_puzzle_embeddings_trimmed.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/biltmire/ChessPuzzleEmbeddings/master/newdata_puzzle_meta_trimmed.tsv"
+    }
+  ]
+}
