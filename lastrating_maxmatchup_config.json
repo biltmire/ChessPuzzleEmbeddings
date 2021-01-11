@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Last Attempt Rating Max Matchup Embeddings",
+      "tensorShape": [
+        33073,
+        16
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/biltmire/ChessPuzzleEmbeddings/master/lastrating_maxmatchup_vecs_normalized.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/biltmire/ChessPuzzleEmbeddings/master/lastrating_maxmatchup_meta.tsv"
+    }
+  ]
+}
