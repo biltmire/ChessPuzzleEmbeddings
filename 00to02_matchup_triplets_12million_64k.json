@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "User-Win-Loss BPR Embeddings (64 dim, 12million triplets)",
+      "tensorShape": [
+        52373,
+	64
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/biltmire/ChessPuzzleEmbeddings/master/00to02_matchup_triplets_12million_64k_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/biltmire/ChessPuzzleEmbeddings/master/00to02_matchup_triplets_12million_64k_meta.tsv"
+    }
+  ]
+}
